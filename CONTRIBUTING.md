@@ -1,4 +1,4 @@
-# Contributing to Learn.co Curriculum
+#!Contributing#to Learn.co Curriculum
 
 We're really exited that you're about to contribute to the [open curriculum](https://learn.co/content-license) on [Learn.co](https://learn.co). If this is your first time contributing, please continue reading to learn how to make the most meaningful and useful impact possible.
 
@@ -34,4 +34,4 @@ We need help from the community of Learners to maintain and improve the
 educational content. Everything from fixing typos, to correcting
 out-dated information, to improving exposition, to adding better examples,
 to fixing tests—all contributions to making the curriculum more effective are
-welcome.
+welcome. 
